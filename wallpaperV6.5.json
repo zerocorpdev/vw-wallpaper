@@ -1,0 +1,176 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_native_ads_Admob_or_applovin":"",
+      "backup_native_ads_Admob_or_applovin":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"Best BMW Wallpaper",
+      "image":"https://lh3.googleusercontent.com/UHjEHlfziVjtx6cUmut6CehOQgJv9SQDGw4A8ar1cIO5cmVeIZ7eRYJcWHQxqWReqKjf=w1525-h730",
+      "link":"https://play.google.com/store/apps/details?id=com.zerocorp.bmwwallpaper"
+    },
+    {
+      "id":2,
+      "judul":"Best Porsche Wallpaper",
+      "image":"https://lh3.googleusercontent.com/ajfuT1Jb-uH3XSlYmp3sFZH2MPZcfFm8yZWxtNyxGuYO0cYq5_r9tExTiix6d25_5Q=w720-h310",
+      "link":"https://play.google.com/store/apps/details?id=com.zerocorp.porschewallpaper"
+    },
+    {
+      "id":3,
+      "judul":"Minecraft Off",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "nama_cat": "Volkswagen Polo GtI",
+      "gambar": "https://wallpaperaccess.com/full/2718168.jpg"
+
+    },
+    {
+      "id": 2,
+      "nama_cat": "Volkswagen Arteon R  ",
+      "gambar": "https://www.wsupercars.com/wallpapers/Volkswagen/2021-Volkswagen-Arteon-R-001-1080.jpg"
+
+    },
+    {
+      "id": 3,
+      "nama_cat": "Volkswagen R Pikes Peak",
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRdnXiPd76BIxCzJuvFzSxj1E9TbdesU9pUTA&usqp=CAU"
+
+    },
+    {
+      "id": 4,
+      "nama_cat": "Volkswagen Passat Alltrack",
+      "gambar": "https://cacsw.org/wp-content/uploads/2018/04/2019-Volkswagen-Passat-Alltrack-white-color-front-side-view-hills-background-4k-hd-wallpaper.jpg"
+
+    },
+    {
+      "id": 5,
+      "nama_cat": "Volkswagen Bus",
+      "gambar": "https://images7.alphacoders.com/421/thumb-1920-421204.jpg"
+
+    },
+    {
+      "id": 6,
+      "nama_cat": "Volkswagen Beetle",
+      "gambar": "https://lh3.googleusercontent.com/proxy/hcsGUs01UQPp8xU8O3B3z53kF4TH8BawbfvyoNL2a1G9jPZChoh2AJXg36Wlq_g-ZWIF7uLiGT5vqPVGEtXJVFj-OWgojeZvDZKT6Lflt0E6YcWKvNtcMoXyv1r-1BaL3SClLixoK7DrCM8kyaA5XMhVxTUJaR1xTmQNZeisEWvrnK-w_Xk"
+    }
+  ],
+
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "id_wall":"001",
+      "nama_cat": "Volkswagen Polo GtI",
+      "judul":"Volkswagen Polo GtI 001",
+      "image":"https://wallpaperaccess.com/full/2718168.jpg"
+    },
+    {
+      "id":2,
+      "id_wall":"002",
+      "nama_cat": "Volkswagen Polo GtI",
+      "judul":"Volkswagen Polo GtI 002",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpapertip.com%2Fwpic%2FhxThTx_volkswagen-polo%2F&psig=AOvVaw2CncJzg0Z1MOsObRcc1F5I&ust=1601620887266000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCID3oMjlkuwCFQAAAAAdAAAAABAb"
+    },
+    {
+      "id":3,
+      "id_wall":"003",
+      "nama_cat": "Volkswagen Arteon R",
+      "judul":"Volkswagen Arteon R 2021 001",
+      "image":"https://www.wsupercars.com/wallpapers/Volkswagen/2021-Volkswagen-Arteon-R-001-1080.jpg"
+    },
+    {
+      "id":4,
+      "id_wall":"004",
+      "nama_cat": "Volkswagen Arteon R",
+      "judul":"Volkswagen Arteon R 2018 002",
+      "image":"https://www.wsupercars.com/wallpapers/Volkswagen/2018-Volkswagen-Arteon-001-1080.jpg"
+    },
+    {
+      "id":5,
+      "id_wall":"005",
+      "nama_cat": "Volkswagen R Pikes Peak",
+      "judul":"Volkswagen R Pikes Peak 001",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRdnXiPd76BIxCzJuvFzSxj1E9TbdesU9pUTA&usqp=CAU"
+    },
+    {
+      "id":6,
+      "id_wall":"006",
+      "nama_cat": "Volkswagen R Pikes Peak",
+      "judul":"Volkswagen R Pikes Peak 2018 002",
+      "image":"https://www.wsupercars.com/wallpapers/Volkswagen/2018-Volkswagen-ID-R-Pikes-Peak-006-1080.jpg"
+    },
+    {
+      "id":7,
+      "id_wall":"007",
+      "nama_cat": "Volkswagen Passat Alltrack",
+      "judul":"Volkswagen Passat Alltrack 001",
+      "image":"https://cacsw.org/wp-content/uploads/2018/04/2019-Volkswagen-Passat-Alltrack-white-color-front-side-view-hills-background-4k-hd-wallpaper.jpg"
+    },
+    {
+      "id":8,
+      "id_wall":"008",
+      "nama_cat": "Volkswagen Passat Alltrack",
+      "judul":" Vehicles Volkswagen Passat Alltrack 002",
+      "image":"https://wallpapercart.com/wp-content/uploads/2020/02/Vehicles-Volkswagen-Passat-Alltrack-Volkswagen-Car-Green-Car-Station-Wagon-Mid-Size-Car-HD-Wallpaper-Background-Imagess.jpg"
+    },
+    {
+      "id":9,
+      "id_wall":"009",
+      "nama_cat": "Volkswagen Bus",
+      "judul":"Volkswagen Bus Classic 001",
+      "image":"https://images7.alphacoders.com/421/thumb-1920-421204.jpg"
+    },
+    {
+      "id":10,
+      "id_wall":"010",
+      "nama_cat": "Volkswagen Bus",
+      "judul":"Volkswagen Bus 2020  002",
+      "image":"https://cimg3.ibsrv.net/ibimg/hgm/1920x1080-1/100/692/2020-volkswagen-transporter-t6-1_100692787.jpg"
+    },
+    {
+      "id":11,
+      "id_wall":"011",
+      "nama_cat": "Volkswagen Beetle",
+      "judul":"Volkswagen Beetle classic 001",
+      "image":"https://lh3.googleusercontent.com/proxy/hcsGUs01UQPp8xU8O3B3z53kF4TH8BawbfvyoNL2a1G9jPZChoh2AJXg36Wlq_g-ZWIF7uLiGT5vqPVGEtXJVFj-OWgojeZvDZKT6Lflt0E6YcWKvNtcMoXyv1r-1BaL3SClLixoK7DrCM8kyaA5XMhVxTUJaR1xTmQNZeisEWvrnK-w_Xk"
+    },
+    {
+      "id":12,
+      "id_wall":"012",
+      "nama_cat": "Volkswagen Beetle",
+      "judul":"Volkswagen Beetle 2019 002",
+      "image":"https://c4.wallpaperflare.com/wallpaper/718/305/291/volkswagen-beetle-2019-vw-hd-wallpaper-preview.jpg"
+    }
+
+
+
+  ]
+}
