@@ -108,8 +108,7 @@
       "name_category": "Volkswagen Arteon R",
       "title":"Volkswagen Arteon R-Coupe",
       "image":"https://s1.cdn.autoevolution.com/images/news/volkswagen-arteon-r-coupe-looks-good-and-bad-at-the-same-time-146430_1.jpg"
-    }
-  ,
+    },
     {
       "id":5,
       "name_category": "Volkswagen R Pikes Peak",
@@ -145,8 +144,7 @@
       "name_category": "Volkswagen Bus",
       "title":"Volkswagen Bus-Yellow",
       "image":"https://wallpaperaccess.com/full/889629.jpg"
-    }
-  ,
+    },
     {
       "id":11,
       "name_category": "Volkswagen Beetle",
@@ -157,7 +155,7 @@
       "id":12,
       "name_category": "Volkswagen Beetle",
       "title":"Volkswagen Beetle-Tosca",
-      "image":"https://awscdn.volkswagen.com.my/media/Content_Model_HighlightFeatureSection_Item_Content_Gallery_Item_Component/49540-854859-586843-content-gallery-586844/dh-1115-532450/2810706e/1633007173/beetlesvw1156-preview.jpg
+      "image":"https://awscdn.volkswagen.com.my/media/Content_Model_HighlightFeatureSection_Item_Content_Gallery_Item_Component/49540-854859-586843-content-gallery-586844/dh-1115-532450/2810706e/1633007173/beetlesvw1156-preview.jpg"
     }
   ]
 }
