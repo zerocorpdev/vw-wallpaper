@@ -47,20 +47,38 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+      "name_category": "Volkswagen Polo GtI",
+      "image": "https://wallpaperaccess.com/full/2718168.jpg"
 
     },
     {
       "id": 2,
-      "name_category": "Animal",
-      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+      "name_category": "Volkswagen Arteon R",
+      "image": "https://i.pinimg.com/736x/71/d9/f1/71d9f1e6663ee8cbfde95d9315d21e43.jpg"
 
     },
     {
       "id": 3,
-      "name_category": "Car",
-      "image": "file:///android_asset/image/car.jpg"
+      "name_category": "Volkswagen R Pikes Peak",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRdnXiPd76BIxCzJuvFzSxj1E9TbdesU9pUTA&usqp=CAU"
+
+    },
+    {
+      "id": 4,
+      "name_category": "Volkswagen Passat Alltrack",
+      "image": "https://cacsw.org/wp-content/uploads/2018/04/2019-Volkswagen-Passat-Alltrack-white-color-front-side-view-hills-background-4k-hd-wallpaper.jpg"
+
+    },
+    {
+      "id": 5,
+      "name_category": "Volkswagen Bus",
+      "image": "https://i.pinimg.com/736x/71/d9/f1/71d9f1e6663ee8cbfde95d9315d21e43.jpg"
+
+    },
+    {
+      "id": 6,
+      "name_category": "Volkswagen Beetle",
+      "image": "https://avtocar2020.com/wp-content/uploads/2019/08/IJisUH5s.jpg"
 
     }
   ],
