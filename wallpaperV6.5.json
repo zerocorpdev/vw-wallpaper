@@ -9,7 +9,7 @@
       "backup_native_ads_Admob_or_applovin":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
-      "interval_intertitial": 9,
+      "interval_intertitial": 3,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"209123192",
       "high_paying_keyword_1": "",
